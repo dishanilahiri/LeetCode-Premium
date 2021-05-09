@@ -35,6 +35,7 @@ grid[i][j] is '0' or '1'.
 Topics->BFS, DFS
 Following solution is using DFS.
   
+Tip-> Using a separate visited array or set will lead to TLE. So it's better to manipulate the inital matrix such that time and memory can be saved. Whichever islands have been processed can be changed to water i.e. '0'.
 Code:
 
 class Solution {
