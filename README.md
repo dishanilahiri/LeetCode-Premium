@@ -1,1 +1,2 @@
-# LeetCode-Premium
+# LeetCode
+1. Walls and Gates
